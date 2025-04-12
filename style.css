@@ -1,0 +1,32 @@
+h1{
+    font-size: 38px;
+    text-align: center;
+    background-image: linear-gradient(lime, yellow);
+    padding: auto;
+    margin: 0 30%;
+}
+
+a{
+    color: blue;
+    font-size: 200%;
+    background-color: rgba(0, 70, 70, 10%);
+    text-align: right;
+}
+
+a:hover{
+    color: orange;
+}
+
+h3{
+    background-image: linear-gradient(yellow, grey);
+    
+}
+
+a.Home{
+    color: rebeccapurple;
+    text-align: center;
+}
+
+a.Home:hover{
+    color:aqua;
+}
